@@ -1,0 +1,236 @@
+
+Cross-reference index for examples in 
+The AWK Programming Language 1988
+compiled 1999 Oct 5 by Chris Johansen <johansen@main.nc.us>,
+to whom many thanks.
+
+
+Filename	Sec	Page	Notes
+
+emp.data	1.1	1	data file
+05.awk		1.2	5
+28.awk		1.2	6
+06.awk		1.2	6
+07.awk		1.2	6
+10.awk		1.2	7
+11.awk		1.3	7
+11a.awk		1.3	8
+08.sh		1.3	8	shell script
+12.awk		1.4	9
+13.awk		1.4	9
+14.awk		1.4	9
+15.awk		1.4	10
+20.awk		1.4	10
+21.awk		1.4	10
+22.awk		1.4	10
+26.awk		1.4	11
+30.awk		1.4	11
+31.awk		1.5	12
+31a.awk		1.5	12
+32.awk		1.5	12
+33.awk		1.5	12
+34.awk		1.5	13
+33a.awk		1.5	13
+40.awk		1.5	14
+40a.awk		1.5	14
+41.awk		1.6	14
+interest1.awk	1.6	15
+forint.awk	1.6	16	(interest2)
+50.awk		1.7	16	(reverse1)
+51.awk		1.7	17	(reverse2)
+61.awk		1.8	17	one-liner 1
+62.awk		1.8	17	one-liner 2
+66.awk		1.8	17	one-liner 3
+63.awk		1.8	17	one-liner 4
+64.awk		1.8	17	one-liner 5
+65.awk		1.8	17	one-liner 6
+67.awk		1.8	17	one-liner 7
+68.awk		1.8	17	one-liner 8
+69.awk		1.8	18	one-liner 9
+70.awk		1.8	18	one-liner 10
+71.awk		1.8	18	one-liner 11
+72.awk		1.8	18	one-liner 12
+73.awk		1.8	18	one-liner 13
+74.awk		1.8	18	one-liner 14
+75.awk		1.8	18	one-liner 15
+76.awk		1.8	18	one-liner 16
+77.awk		1.8	18	one-liner 17
+78.awk		1.8	18	one-liner 18
+79.awk		1.8	18	one-liner 19
+80.awk		1.8	18	one-liner 20
+countries	2	22	data file
+p11.awk		2.1	24
+p12.awk		2.1	26
+p13.awk		2.1	26
+p13a.awk	2.1	26
+re1.awk		2.1	30
+re2.awk		2.1	30
+re3.awk		2.1	30
+re4.awk		2.1	30
+re5.awk		2.1	30
+re6.awk		2.1	30
+re7.awk		2.1	30
+re8.awk		2.1	30
+p16.awk		2.1	31
+p18.awk		2.1	31
+p19.awk		2.1	31
+p20.awk		2.1	32
+p20a.awk	2.1	32
+p20b.awk	2.1	32
+p21.awk		2.1	33
+p22.awk		2.1	32
+p22a.awk	2.1	32
+p23.awk		2.2	35
+p41.awk		2.2	35
+p42.awk		2.2	35
+p43.awk		2.2	36
+p43a.awk	2.2	38
+p32.awk		2.2	38
+p34.awk		2.2	38
+p24.awk		2.2	39
+p35.awk		2.2	40
+p17.awk		2.2	40
+builtup.awk	2.2	40
+p36.awk		2.2	43
+p39.awk		2.2	43
+p40.awk		2.2	44
+p40a.awk	2.2	45
+p40b.awk	2.2	45
+p45.awk		2.2	48
+p46.awk		2.2	49
+empty.awk	2.2	50
+revline.awk	2.2	50
+p47.awk		2.2	51
+p48.awk		2.2	51
+p51.awk		2.3	53
+p51a.awk	2.3	54
+p52.awk		2.4	56
+p53.awk		2.4	57
+p53a.awk	2.4	58
+p53b.awk	2.4	58
+p54.awk		2.4	58
+p60.awk		2.5	62
+p61.awk		2.5	63
+p44.awk		2.5	64
+p62.awk		2.6	64
+field.awk	2.6	66
+sum1		3.1	68
+sum2		3.1	68
+sum3		3.1	69
+3-4.ans		3.1	69	exercise 3-4
+percent		3.1	70
+histogram	3.1	70
+hist.sh		3.1	70	shell script
+histans1.awk	3.1	71	exercise 3-5
+sumcomma	3.1	71
+addcomma	3.1	72
+addcomma.ans	3.1	72	exercise 3-7
+addcomma.ans2	3.1	72	exercise 3-7
+datecvt		3.1	72
+date.data	3.1	73	data file
+daynum		3.1	73	exercise 3-8
+nm.output	3.1	73	data file
+nm.format	3.1	74
+prchecks	3.1	75
+checkfix.ans	3.1	76	exercise 3-9,12
+colcheck	3.2	77
+p12check	3.2	77
+delim.ans	3.2	78	exercise 3-13
+passwd		3.2	78
+checkgen.data	3.2	79	data file
+checkgen	3.2	79
+valid.ans	3.2	79	exercise 3-14
+compat		3.2	80
+bundle		3.3	81
+unbundle	3.3	82
+addr.1		3.4	83	data file
+ny1.awk		3.4	83
+ny2.awk		3.4	83
+smith.awk	3.4	84
+msort.sh	3.4	84	shell script
+addr.2		3.4	85
+doctors1.awk	3.4	85
+doctors2.awk	3.4	85
+checks.data	3.4	86	data file
+check1		3.4	87
+check2		3.4	87
+check3		3.4	88
+prep1		4.1	90
+form1		4.1	91
+prep2		4.1	91
+form2		4.1	92
+prep3		4.1	93
+form3		4.1	94
+form4		4.1	96
+table		4.1	98
+table1		4.1	196	exercise 4-3
+info0		4.2	99
+info		4.2	100
+info.ans	4.2	100	exercise 4-5
+info1.ans	4.2	100	exercise 4-5
+letter.text	4.2	101
+form.gen	4.2	101
+capitals	4.3	102	data file
+merge.awk	4.3	103
+join.awk	4.3	104
+relfile		4.3	106
+avgarea.awk	4.3	108
+qawk		4.3	109
+qawk1.ans	4.3	110	exercise 4-11
+randint		5.1	111
+randlet		5.1	112
+choose		5.1	112
+comb.ans	5.1	112	exercise 5-2
+bridge.ans	5.1	112	exercise 5-3
+cliche		5.1	113
+grammar		5.1	113	data file
+sentgen		5.1	115
+sentgen1	5.1	116	exercise 5-6
+sentgen2	5.1	116	exercise 5-7
+arith		5.1	117
+quiz.elems	5.1	117	data file
+quiz		5.1	118
+wordfreq	5.3	119
+fmt		5.3	120
+fmt.just	5.3	120	exercise 5-13
+xref.data	5.3	121	data file
+xref		5.3	122
+xref.ans	5.3	122	exercise 5-16
+xref1.ans	5.3	122	exercise 5-18
+say.in.kwic	5.3	123	input file
+kwic		5.3	123
+kwic.ans	5.3	124	exercise 5-19
+ix.raw		5.3	125	data file
+ix.collapse	5.3	126
+ix.rotate	5.3	127
+ix.genkey	5.3	128
+ix.sort1	5.3	126
+ix.sort2	5.3	128
+ix.format	5.3	129
+indall		5.3	129	shell script
+sum.asm		6.1	133	assembly source
+asm		6.1	134
+asm.print	6.1	135	exercise 6-1
+graph		6.2	137
+transpose	6.2	139	exercise 6-6
+sortgen0.in	6.3	140	input file
+sortgen.in	6.3	140	input file
+sortgen		6.3	141
+calc1		6.4	143
+calc2		6.4	144
+calc3		6.5	146
+parser.in	6.6	147	input file
+awk.parser	6.6	149
+isort.awk	7.1	154
+ptest.awk	7.1	155
+scaff.awk	7.1	157
+iisort.awk	7.1	158
+frame.awk	7.1	159
+qsort.awk	7.1	161
+hsort.awk	7.1	165
+makeprof	7.2	167
+printprof	7.2	168
+tsort.awk	7.3	172
+dfs.awk		7.3	173
+rtsort.awk	7.3	174
+make.awk	7.4	178
